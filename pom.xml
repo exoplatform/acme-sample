@@ -26,7 +26,7 @@
   <parent>
     <artifactId>addons-parent-pom</artifactId>
     <groupId>org.exoplatform.addons</groupId>
-    <version>4</version>
+    <version>6</version>
   </parent>
   <groupId>org.exoplatform.addons.acme</groupId>
   <artifactId>acme-sample</artifactId>
@@ -34,11 +34,11 @@
   <packaging>pom</packaging>
   <name>ACME Website sample for eXo platform</name>
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/acme-sample.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/acme-sample.git</developerConnection>
-    <url>https://github.com/exo-addons/acme-sample</url>
+    <connection>scm:git:git://github.com/exoplatform/acme-sample.git</connection>
+    <developerConnection>scm:git:git@github.com:exoplatform/acme-sample.git</developerConnection>
     <tag>HEAD</tag>
-  </scm>  
+    <url>https://github.com/exoplatform/acme-sample</url>
+  </scm>
   <properties>
     <!-- **************************************** -->
     <!-- Jenkins Settings                         -->
