@@ -9,7 +9,7 @@
   </parent>
   <artifactId>platform-sample-acme-website-component-navigation-rest</artifactId>
   <packaging>jar</packaging>
-  <name>eXo Platform - Acme Website Content Navigation REST Service</name>
+  <name>eXo Add-on::  Acme Website Content Navigation REST Service</name>
   <dependencies>
     <dependency>
       <groupId>commons-lang</groupId>

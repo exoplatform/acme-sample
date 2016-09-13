@@ -30,7 +30,7 @@
   </parent>
   <artifactId>acme-sample</artifactId>
   <packaging>pom</packaging>
-  <name>eXo Platform - Acme Website Addon Packaging</name>
+  <name>eXo Add-on::  Acme Website Addon Packaging</name>
 
   <dependencies>
     <!-- Platform ACME website libraries -->

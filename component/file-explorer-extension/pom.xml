@@ -9,7 +9,7 @@
   </parent>
   <artifactId>platform-sample-acme-website-component-file-explorer</artifactId>
   <packaging>jar</packaging>
-  <name>eXo Platform - Acme Website File Explorer Extension</name>
+  <name>eXo Add-on::  Acme Website File Explorer Extension</name>
   <dependencies>
     <dependency>
       <groupId>javax.jcr</groupId>

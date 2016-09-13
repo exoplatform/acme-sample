@@ -8,7 +8,7 @@
   </parent>
   <artifactId>platform-sample-acme-website-webapp</artifactId>
   <packaging>war</packaging>
-  <name>eXo Platform - Acme Website Webapp</name>
+  <name>eXo Add-on::  Acme Website Webapp</name>
   <build>
     <finalName>acme-website</finalName>
   </build>
