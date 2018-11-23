@@ -10,7 +10,7 @@
   <artifactId>platform-sample-acme-website</artifactId>
   <version>4.4.x-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>eXo Add-on::  ACME Website sample for eXo platform</name>
+  <name>ACME Website sample for eXo platform</name>
 
   <scm>
     <connection>scm:git:git://github.com/exoplatform/acme-sample.git</connection>
